@@ -1,2 +1,2 @@
 # PacMan
-(Site)[https://sirvorak.github.io/PacMan/]
+[Site](https://sirvorak.github.io/PacMan/)
